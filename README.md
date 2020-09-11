@@ -11,7 +11,7 @@
 
 ## Portafolio Personal
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Konnits/mat281_portfolio_template/master?urlpath=lab)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Konnits/mat281_portfolio/master?urlpath=lab)
 
 * __Gerald Méndez__ : [My Page]()
 
