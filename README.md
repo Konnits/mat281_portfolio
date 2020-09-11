@@ -13,7 +13,7 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Konnits/mat281_portfolio/master?urlpath=lab)
 
-* __Gerald Méndez__ : [My Page]()
+* __Gerald Mendez__ : [My Page]()
 
 * __Repositorio Curso__:
     - [2019](https://github.com/aoguedao/mat281_2019S2)
